@@ -21,19 +21,15 @@ const CodatLoginToXero4 = (props) => {
         className="codat-login-to-xero4-pasted-image"
       />
       <label className="codat-login-to-xero4-text">
-        <span className="codat-login-to-xero4-text01">Login to Xero</span>
+        <span className="codat-login-to-xero4-text1">Login to Xero</span>
         <br></br>
       </label>
-      <label className="codat-login-to-xero4-text03">
-        <span className="codat-login-to-xero4-text04">Login to Xero</span>
+      <label className="codat-login-to-xero4-text3">
+        <span className="codat-login-to-xero4-text4">Password</span>
         <br></br>
       </label>
-      <label className="codat-login-to-xero4-text06">
-        <span className="codat-login-to-xero4-text07">Password</span>
-        <br></br>
-      </label>
-      <label className="codat-login-to-xero4-text09">
-        <span className="codat-login-to-xero4-text10">User Name</span>
+      <label className="codat-login-to-xero4-text6">
+        <span className="codat-login-to-xero4-text7">User Name</span>
         <br></br>
       </label>
       <input

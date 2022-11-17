@@ -21,7 +21,7 @@ const CodatLoanApplicationInProgress52 = (props) => {
       >
         <img
           alt="pastedImage"
-          src="/playground_assets/pastedimage-la2k-1500w.png"
+          src="/playground_assets/pastedimage-la2k-1000h.png"
           className="codat-loan-application-in-progress52-pasted-image"
         />
       </Link>

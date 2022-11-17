@@ -17,9 +17,31 @@ const Home1 = (props) => {
         src="/playground_assets/pastedimage-91m8-800w.png"
         className="home1-pasted-image"
       />
-      <Link to="/codat-connect-2" className="home1-navlink button">
-        Enhance Offer
-      </Link>
+      <div className="home1-container1">
+        <Link to="/codat-connect-2" className="home1-navlink button">
+          Enhance Offer
+        </Link>
+        <label className="home1-text">Have Questions</label>
+        <a
+          href="https://example.com"
+          target="_blank"
+          rel="noreferrer noopener"
+          className="home1-link"
+        >
+          Save and Exit
+        </a>
+        <a
+          href="https://example.com"
+          target="_blank"
+          rel="noreferrer noopener"
+          className="home1-link1"
+        >
+          See FAQ
+        </a>
+        <Link to="/codat-connect-2" className="home1-navlink1 button">
+          Customize the Offer
+        </Link>
+      </div>
     </div>
   )
 }

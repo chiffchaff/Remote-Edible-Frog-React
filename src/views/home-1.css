@@ -1,4 +1,5 @@
 .home1-container {
+  gap: var(--dl-space-space-fiveunits);
   width: 100%;
   display: flex;
   overflow: auto;
@@ -12,16 +13,63 @@
 .home1-pasted-image {
   top: 0px;
   flex: 1;
-  left: 195px;
+  left: 0px;
+  right: 0px;
   width: 50%;
   height: 80%;
+  margin: auto;
   position: absolute;
 }
+.home1-container1 {
+  flex: 0 0 auto;
+  right: -19px;
+  width: 100%;
+  bottom: 9px;
+  height: 100px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  justify-content: center;
+}
 .home1-navlink {
-  left: 442px;
+  top: -64px;
+  left: 781px;
   color: var(--dl-color-gray-white);
-  width: 168px;
-  bottom: 71px;
+  width: 213px;
+  height: 46px;
+  position: absolute;
+  font-style: normal;
+  text-align: center;
+  font-weight: 800;
+  text-decoration: none;
+  background-color: var(--dl-color-primary-300);
+}
+.home1-text {
+  top: 19px;
+  left: 723px;
+  position: absolute;
+}
+.home1-link {
+  top: -12px;
+  left: 725px;
+  color: var(--dl-color-primary-300);
+  position: absolute;
+  font-style: normal;
+  font-weight: 700;
+}
+.home1-link1 {
+  top: 45px;
+  left: 746px;
+  color: var(--dl-color-primary-300);
+  position: absolute;
+  font-style: normal;
+  font-weight: 700;
+}
+.home1-navlink1 {
+  top: -62px;
+  left: 536px;
+  color: var(--dl-color-gray-white);
+  width: 214px;
   height: 46px;
   position: absolute;
   font-style: normal;

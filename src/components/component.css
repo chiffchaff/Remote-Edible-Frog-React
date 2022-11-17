@@ -1,0 +1,8 @@
+.component-container {
+  width: 100%;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: 118px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+}

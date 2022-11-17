@@ -7,13 +7,17 @@
   flex-direction: column;
   justify-content: center;
 }
+.codat-fetch-progress51-navlink {
+  display: contents;
+}
 .codat-fetch-progress51-image {
   align-self: center;
   object-fit: cover;
+  text-decoration: none;
 }
 .codat-fetch-progress51-text {
-  left: 533px;
-  bottom: 129px;
+  left: 582px;
+  bottom: 93px;
   position: absolute;
 }
 .codat-fetch-progress51-text1 {
