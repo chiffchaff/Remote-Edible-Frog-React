@@ -1,0 +1,15 @@
+.codat-connect3-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.codat-connect3-navlink {
+  display: contents;
+}
+.codat-connect3-pasted-image {
+  text-decoration: none;
+}

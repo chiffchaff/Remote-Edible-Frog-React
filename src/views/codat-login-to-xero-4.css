@@ -1,0 +1,84 @@
+.codat-login-to-xero4-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.codat-login-to-xero4-pasted-image {
+  top: 54px;
+  left: 481px;
+  width: 238px;
+  height: 221px;
+  position: absolute;
+}
+.codat-login-to-xero4-text {
+  top: 304px;
+  left: 524px;
+  position: absolute;
+}
+.codat-login-to-xero4-text01 {
+  font-size: 25px;
+}
+.codat-login-to-xero4-text03 {
+  top: 304px;
+  left: 524px;
+  position: absolute;
+}
+.codat-login-to-xero4-text04 {
+  font-size: 25px;
+}
+.codat-login-to-xero4-text06 {
+  top: 442px;
+  left: 363px;
+  position: absolute;
+}
+.codat-login-to-xero4-text07 {
+  font-size: 25px;
+}
+.codat-login-to-xero4-text09 {
+  top: 372px;
+  left: 359px;
+  position: absolute;
+}
+.codat-login-to-xero4-text10 {
+  font-size: 25px;
+}
+.codat-login-to-xero4-textinput {
+  top: 366px;
+  left: 511px;
+  width: 318px;
+  height: 42px;
+  position: absolute;
+}
+.codat-login-to-xero4-textinput1 {
+  top: 366px;
+  left: 511px;
+  width: 318px;
+  height: 42px;
+  position: absolute;
+}
+.codat-login-to-xero4-textinput2 {
+  top: 434px;
+  left: 512px;
+  width: 318px;
+  height: 42px;
+  position: absolute;
+}
+.codat-login-to-xero4-navlink {
+  top: 516px;
+  left: 504px;
+  color: var(--dl-color-gray-white);
+  width: 330px;
+  height: 46px;
+  margin: auto;
+  position: absolute;
+  font-style: normal;
+  text-align: center;
+  font-weight: 800;
+  padding-right: 0px;
+  text-decoration: none;
+  background-color: var(--dl-color-primary-300);
+}

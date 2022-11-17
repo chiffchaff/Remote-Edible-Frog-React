@@ -1,0 +1,16 @@
+.codat-consent-for-access5-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.codat-consent-for-access5-navlink {
+  display: contents;
+}
+.codat-consent-for-access5-pasted-image {
+  width: 764px;
+  height: 996px;
+  text-decoration: none;
+}
